@@ -1,0 +1,6 @@
+
+manzanas<<<<<<< HEAD
+=======
+Platanos
+
+>>>>>>> Rama1
