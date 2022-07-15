@@ -2,9 +2,6 @@
 
 manzanas y naranjas
 =======
-Platanos
-=======
-Platanos y verduras
->>>>>>> Rama1
+
 
 
