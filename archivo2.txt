@@ -1,5 +1,5 @@
 
-manzanas<<<<<<< HEAD
+manzanas y naranjas<<<<<<< HEAD
 =======
 Platanos
 
