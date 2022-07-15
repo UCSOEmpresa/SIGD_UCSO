@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 
-manzanas y naranjas<<<<<<< HEAD
+manzanas y naranjas
 =======
 Platanos
-
+=======
+Platanos y verduras
 >>>>>>> Rama1
+
+
