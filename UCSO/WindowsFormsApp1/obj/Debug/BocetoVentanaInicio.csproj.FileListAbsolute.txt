@@ -1,0 +1,35 @@
+C:\Users\admin\Desktop\Proyecto\Boceto Pagina de Inicio\Boceto de Pagina de Inicio\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\admin\Desktop\Proyecto\Boceto Pagina de Inicio\Boceto de Pagina de Inicio\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Desktop\Proyecto\Boceto Pagina de Inicio\Boceto de Pagina de Inicio\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Desktop\Proyecto\Boceto Pagina de Inicio\Boceto de Pagina de Inicio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\BocetoVentanaInicio.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Proyecto\Boceto Pagina de Inicio\Boceto de Pagina de Inicio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\admin\Desktop\Proyecto\Boceto Pagina de Inicio\Boceto de Pagina de Inicio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\admin\Desktop\Proyecto\Boceto Pagina de Inicio\Boceto de Pagina de Inicio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\admin\Desktop\Proyecto\Boceto Pagina de Inicio\Boceto de Pagina de Inicio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\BocetoVentanaInicio.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Proyecto\Boceto Pagina de Inicio\Boceto de Pagina de Inicio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\BocetoVentanaInicio.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Proyecto\Boceto Pagina de Inicio\Boceto de Pagina de Inicio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Desktop\Proyecto\Boceto Pagina de Inicio\Boceto de Pagina de Inicio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Desktop\Proyecto\Boceto Pagina de Inicio\Boceto de Pagina de Inicio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.VentanaBuscarJugadores.resources
+C:\Users\admin\Desktop\Proyecto\Boceto Pagina de Inicio\Boceto de Pagina de Inicio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.VentanaEquipos.resources
+C:\Users\admin\Desktop\Proyecto\Boceto Pagina de Inicio\Boceto de Pagina de Inicio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.VentanaContacto.resources
+C:\Users\admin\Desktop\Proyecto\Boceto Pagina de Inicio\Boceto de Pagina de Inicio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.VentanaCambiarContraseña.resources
+C:\Users\admin\Desktop\Proyecto\Boceto Pagina de Inicio\Boceto de Pagina de Inicio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.VentanaTorneos.resources
+C:\Users\admin\Desktop\Proyecto\Boceto Pagina de Inicio\Boceto de Pagina de Inicio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.VentanaCambiarIdioma.resources
+F:\Programa del proyecto avanzado\Boceto Pagina de Inicio\Boceto de Pagina de Inicio\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\Programa del proyecto avanzado\Boceto Pagina de Inicio\Boceto de Pagina de Inicio\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\Programa del proyecto avanzado\Boceto Pagina de Inicio\Boceto de Pagina de Inicio\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\Programa del proyecto avanzado\Boceto Pagina de Inicio\Boceto de Pagina de Inicio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\BocetoVentanaInicio.csprojAssemblyReference.cache
+F:\Programa del proyecto avanzado\Boceto Pagina de Inicio\Boceto de Pagina de Inicio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.VentanaBuscarJugadores.resources
+F:\Programa del proyecto avanzado\Boceto Pagina de Inicio\Boceto de Pagina de Inicio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.VentanaCambiarContraseña.resources
+F:\Programa del proyecto avanzado\Boceto Pagina de Inicio\Boceto de Pagina de Inicio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.VentanaCambiarIdioma.resources
+F:\Programa del proyecto avanzado\Boceto Pagina de Inicio\Boceto de Pagina de Inicio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.VentanaContacto.resources
+F:\Programa del proyecto avanzado\Boceto Pagina de Inicio\Boceto de Pagina de Inicio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.VentanaEquipos.resources
+F:\Programa del proyecto avanzado\Boceto Pagina de Inicio\Boceto de Pagina de Inicio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\Programa del proyecto avanzado\Boceto Pagina de Inicio\Boceto de Pagina de Inicio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+F:\Programa del proyecto avanzado\Boceto Pagina de Inicio\Boceto de Pagina de Inicio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\Programa del proyecto avanzado\Boceto Pagina de Inicio\Boceto de Pagina de Inicio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.VentanaSoporte.resources
+F:\Programa del proyecto avanzado\Boceto Pagina de Inicio\Boceto de Pagina de Inicio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.VentanaTorneos.resources
+F:\Programa del proyecto avanzado\Boceto Pagina de Inicio\Boceto de Pagina de Inicio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\BocetoVentanaInicio.csproj.GenerateResource.cache
+F:\Programa del proyecto avanzado\Boceto Pagina de Inicio\Boceto de Pagina de Inicio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\BocetoVentanaInicio.csproj.CoreCompileInputs.cache
+F:\Programa del proyecto avanzado\Boceto Pagina de Inicio\Boceto de Pagina de Inicio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\Programa del proyecto avanzado\Boceto Pagina de Inicio\Boceto de Pagina de Inicio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
