@@ -524,6 +524,7 @@
             this.btnBasket.TabIndex = 64;
             this.btnBasket.Text = "Basketball";
             this.btnBasket.UseVisualStyleBackColor = false;
+            this.btnBasket.Click += new System.EventHandler(this.btnBasket_Click);
             // 
             // btnHandball
             // 
@@ -538,6 +539,7 @@
             this.btnHandball.TabIndex = 65;
             this.btnHandball.Text = "Handball";
             this.btnHandball.UseVisualStyleBackColor = false;
+            this.btnHandball.Click += new System.EventHandler(this.btnHandball_Click);
             // 
             // VentanaEquipos
             // 

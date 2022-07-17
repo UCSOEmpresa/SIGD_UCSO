@@ -156,5 +156,17 @@ namespace Programa_Proyecto
             VentanaSoporte frm = new VentanaSoporte();
             frm.Show();
         }
+
+        private void btnBasket_Click(object sender, EventArgs e)
+        {
+            VentanaEquiposBasketball frm = new VentanaEquiposBasketball();
+            frm.Show();
+        }
+
+        private void btnHandball_Click(object sender, EventArgs e)
+        {
+            VentanaEquiposHandball frm = new VentanaEquiposHandball();
+            frm.Show();
+        }
     }
 }
