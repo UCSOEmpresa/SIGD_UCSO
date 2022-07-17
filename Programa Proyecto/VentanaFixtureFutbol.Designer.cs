@@ -475,7 +475,7 @@
             this.btnBuscarFix.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnBuscarFix.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnBuscarFix.ForeColor = System.Drawing.SystemColors.Window;
-            this.btnBuscarFix.Location = new System.Drawing.Point(856, 216);
+            this.btnBuscarFix.Location = new System.Drawing.Point(847, 216);
             this.btnBuscarFix.Name = "btnBuscarFix";
             this.btnBuscarFix.Size = new System.Drawing.Size(107, 31);
             this.btnBuscarFix.TabIndex = 81;

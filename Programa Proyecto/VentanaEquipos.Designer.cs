@@ -223,7 +223,7 @@
             this.fLIdioma.BackColor = System.Drawing.Color.Transparent;
             this.fLIdioma.Controls.Add(this.btnEspaña);
             this.fLIdioma.Controls.Add(this.btnUSA);
-            this.fLIdioma.Location = new System.Drawing.Point(1082, 59);
+            this.fLIdioma.Location = new System.Drawing.Point(1094, 59);
             this.fLIdioma.Name = "fLIdioma";
             this.fLIdioma.Size = new System.Drawing.Size(44, 66);
             this.fLIdioma.TabIndex = 56;
@@ -481,7 +481,7 @@
             // 
             this.pBBasket.BackColor = System.Drawing.Color.Transparent;
             this.pBBasket.Image = global::Programa_Proyecto.Properties.Resources.pelota_basket;
-            this.pBBasket.Location = new System.Drawing.Point(559, 284);
+            this.pBBasket.Location = new System.Drawing.Point(574, 284);
             this.pBBasket.Name = "pBBasket";
             this.pBBasket.Size = new System.Drawing.Size(90, 87);
             this.pBBasket.TabIndex = 61;
@@ -521,7 +521,7 @@
             this.btnBasket.ForeColor = System.Drawing.SystemColors.Window;
             this.btnBasket.Location = new System.Drawing.Point(559, 397);
             this.btnBasket.Name = "btnBasket";
-            this.btnBasket.Size = new System.Drawing.Size(105, 53);
+            this.btnBasket.Size = new System.Drawing.Size(115, 53);
             this.btnBasket.TabIndex = 64;
             this.btnBasket.Text = "Basketball";
             this.btnBasket.UseVisualStyleBackColor = false;
