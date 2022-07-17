@@ -1,0 +1,81 @@
+C:\Users\admin\source\repos\Programa Proyecto\Programa Proyecto\obj\Debug\Programa Proyecto.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Programa Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.Form1.resources
+C:\Users\admin\source\repos\Programa Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.Properties.Resources.resources
+C:\Users\admin\source\repos\Programa Proyecto\Programa Proyecto\obj\Debug\Programa Proyecto.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Programa Proyecto\Programa Proyecto\obj\Debug\Programa Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Programa Proyecto\Programa Proyecto\bin\Debug\Programa Proyecto.exe.config
+C:\Users\admin\source\repos\Programa Proyecto\Programa Proyecto\bin\Debug\Programa Proyecto.exe
+C:\Users\admin\source\repos\Programa Proyecto\Programa Proyecto\bin\Debug\Programa Proyecto.pdb
+C:\Users\admin\source\repos\Programa Proyecto\Programa Proyecto\obj\Debug\Programa Proyecto.exe
+C:\Users\admin\source\repos\Programa Proyecto\Programa Proyecto\obj\Debug\Programa Proyecto.pdb
+C:\Users\admin\source\repos\Programa Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaInicio.resources
+C:\Users\admin\source\repos\Programa Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaCambiarContraseña.resources
+C:\Users\admin\source\repos\Programa Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaJugadores.resources
+C:\Users\admin\source\repos\Programa Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaContacto.resources
+C:\Users\admin\source\repos\Programa Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaEquipos.resources
+C:\Users\admin\source\repos\Programa Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaEquiposBasketball.resources
+C:\Users\admin\source\repos\Programa Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaEquiposFutbol.resources
+C:\Users\admin\source\repos\Programa Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaEquiposHandball.resources
+C:\Users\admin\source\repos\Programa Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaRegistrarUsuarios.resources
+C:\Users\admin\source\repos\Programa Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaSobreNosotros.resources
+C:\Users\admin\source\repos\Programa Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaSoporte.resources
+C:\Users\admin\source\repos\Programa Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaTorneosBasketball.resources
+C:\Users\admin\source\repos\Programa Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaTorneosFutbol.resources
+C:\Users\admin\source\repos\Programa Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaTorneosHandball.resources
+C:\Users\admin\source\repos\Programa Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaFixtureBasketball.resources
+C:\Users\admin\source\repos\Programa Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaFixtureFutbol.resources
+C:\Users\admin\source\repos\Programa Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaFixtureHandball.resources
+C:\Users\admin\Desktop\asd\Programa Proyecto\bin\Debug\Programa Proyecto.exe.config
+C:\Users\admin\Desktop\asd\Programa Proyecto\bin\Debug\Programa Proyecto.exe
+C:\Users\admin\Desktop\asd\Programa Proyecto\bin\Debug\Programa Proyecto.pdb
+C:\Users\admin\Desktop\asd\Programa Proyecto\obj\Debug\Programa Proyecto.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\asd\Programa Proyecto\obj\Debug\Programa_Proyecto.Form1.resources
+C:\Users\admin\Desktop\asd\Programa Proyecto\obj\Debug\Programa_Proyecto.Properties.Resources.resources
+C:\Users\admin\Desktop\asd\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaCambiarContraseña.resources
+C:\Users\admin\Desktop\asd\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaContacto.resources
+C:\Users\admin\Desktop\asd\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaEquipos.resources
+C:\Users\admin\Desktop\asd\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaEquiposBasketball.resources
+C:\Users\admin\Desktop\asd\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaEquiposFutbol.resources
+C:\Users\admin\Desktop\asd\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaEquiposHandball.resources
+C:\Users\admin\Desktop\asd\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaRegistrarUsuarios.resources
+C:\Users\admin\Desktop\asd\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaSobreNosotros.resources
+C:\Users\admin\Desktop\asd\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaSoporte.resources
+C:\Users\admin\Desktop\asd\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaTorneosBasketball.resources
+C:\Users\admin\Desktop\asd\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaTorneosFutbol.resources
+C:\Users\admin\Desktop\asd\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaTorneosHandball.resources
+C:\Users\admin\Desktop\asd\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaFixtureBasketball.resources
+C:\Users\admin\Desktop\asd\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaFixtureFutbol.resources
+C:\Users\admin\Desktop\asd\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaFixtureHandball.resources
+C:\Users\admin\Desktop\asd\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaInicio.resources
+C:\Users\admin\Desktop\asd\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaJugadores.resources
+C:\Users\admin\Desktop\asd\Programa Proyecto\obj\Debug\Programa Proyecto.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\asd\Programa Proyecto\obj\Debug\Programa Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\asd\Programa Proyecto\obj\Debug\Programa Proyecto.exe
+C:\Users\admin\Desktop\asd\Programa Proyecto\obj\Debug\Programa Proyecto.pdb
+C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\bin\Debug\Programa Proyecto.exe.config
+C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\bin\Debug\Programa Proyecto.exe
+C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\bin\Debug\Programa Proyecto.pdb
+C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\obj\Debug\Programa Proyecto.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.Form1.resources
+C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.Properties.Resources.resources
+C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaCambiarContraseña.resources
+C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaContacto.resources
+C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaEquipos.resources
+C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaEquiposBasketball.resources
+C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaEquiposFutbol.resources
+C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaEquiposHandball.resources
+C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaRegistrarUsuarios.resources
+C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaSobreNosotros.resources
+C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaSoporte.resources
+C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaTorneosBasketball.resources
+C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaTorneosFutbol.resources
+C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaTorneosHandball.resources
+C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaFixtureBasketball.resources
+C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaFixtureFutbol.resources
+C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaFixtureHandball.resources
+C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaInicio.resources
+C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaJugadores.resources
+C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\obj\Debug\Programa Proyecto.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\obj\Debug\Programa Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\obj\Debug\Programa Proyecto.exe
+C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\obj\Debug\Programa Proyecto.pdb
