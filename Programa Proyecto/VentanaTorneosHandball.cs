@@ -174,5 +174,10 @@ namespace Programa_Proyecto
             VentanaInicio frm = new VentanaInicio();
             frm.Show();
         }
+
+        private void VentanaTorneosHandball_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

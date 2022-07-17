@@ -532,6 +532,7 @@
             this.DoubleBuffered = true;
             this.Name = "VentanaTorneosHandball";
             this.Text = "VentanaEquiposHandball";
+            this.Load += new System.EventHandler(this.VentanaTorneosHandball_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pBLogo)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pBLogochico)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pBAtras)).EndInit();

@@ -98,10 +98,10 @@
             // 
             // txtBuscarTor
             // 
-            this.txtBuscarTor.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtBuscarTor.Location = new System.Drawing.Point(301, 373);
+            this.txtBuscarTor.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtBuscarTor.Location = new System.Drawing.Point(304, 371);
             this.txtBuscarTor.Name = "txtBuscarTor";
-            this.txtBuscarTor.Size = new System.Drawing.Size(437, 20);
+            this.txtBuscarTor.Size = new System.Drawing.Size(437, 22);
             this.txtBuscarTor.TabIndex = 143;
             this.txtBuscarTor.Text = "Buscar Torneos";
             this.txtBuscarTor.MouseClick += new System.Windows.Forms.MouseEventHandler(this.Borrar);
