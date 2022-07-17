@@ -146,5 +146,12 @@ namespace Programa_Proyecto
             VentanaSoporte frm = new VentanaSoporte();
             frm.Show();
         }
+
+        private void pBIsologo_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            VentanaInicio frm = new VentanaInicio();
+            frm.Show();
+        }
     }
 }

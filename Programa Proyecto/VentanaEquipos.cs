@@ -168,5 +168,12 @@ namespace Programa_Proyecto
             VentanaEquiposHandball frm = new VentanaEquiposHandball();
             frm.Show();
         }
+
+        private void pBIsologo_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            VentanaInicio frm = new VentanaInicio();
+            frm.Show();
+        }
     }
 }

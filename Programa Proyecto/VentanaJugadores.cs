@@ -177,5 +177,12 @@ namespace Programa_Proyecto
                 MessageBox.Show("Esta vacío");
             }
         }
+
+        private void pBIsologo_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            VentanaInicio frm = new VentanaInicio();
+            frm.Show();
+        }
     }
 }

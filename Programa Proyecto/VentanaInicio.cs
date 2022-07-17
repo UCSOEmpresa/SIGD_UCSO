@@ -163,5 +163,12 @@ namespace Programa_Proyecto
         {
 
         }
+
+        private void pBIsologo_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            VentanaInicio frm = new VentanaInicio();
+            frm.Show();
+        }
     }
 }

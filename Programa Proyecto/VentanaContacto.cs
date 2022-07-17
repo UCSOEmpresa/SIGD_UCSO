@@ -150,5 +150,12 @@ namespace Programa_Proyecto
             VentanaTorneosHandball frm = new VentanaTorneosHandball();
             frm.Show();
         }
+
+        private void pBIsologo_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            VentanaInicio frm = new VentanaInicio();
+            frm.Show();
+        }
     }
 }
