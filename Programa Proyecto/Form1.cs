@@ -73,5 +73,24 @@ namespace Programa_Proyecto
             VentanaCambiarContraseña frm = new VentanaCambiarContraseña();
             frm.Show();
         }
+
+        private void btnUSA_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            VentanaIniciarSesionENG frm = new VentanaIniciarSesionENG();
+            frm.Show();
+        }
+
+        private void btnIdioma_Click(object sender, EventArgs e)
+        {
+            if (fLIdioma.Visible == true)
+            {
+                fLIdioma.Visible = false;
+            }
+            else
+            {
+                fLIdioma.Visible = true;
+            }
+        }
     }
 }

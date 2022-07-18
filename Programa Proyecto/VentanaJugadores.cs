@@ -185,5 +185,12 @@ namespace Programa_Proyecto
             VentanaInicio frm = new VentanaInicio();
             frm.Show();
         }
+
+        private void btnUSA_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            VentanaJugadoresENG frm = new VentanaJugadoresENG();
+            frm.Show();
+        }
     }
 }

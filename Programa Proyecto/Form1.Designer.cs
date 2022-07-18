@@ -38,8 +38,13 @@
             this.btnCancelar = new System.Windows.Forms.Button();
             this.btnEntrar = new System.Windows.Forms.Button();
             this.linkLabel1 = new System.Windows.Forms.LinkLabel();
+            this.fLIdioma = new System.Windows.Forms.FlowLayoutPanel();
+            this.btnEspaña = new System.Windows.Forms.Button();
+            this.btnUSA = new System.Windows.Forms.Button();
+            this.btnIdioma = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pBLogo)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pBIsologo)).BeginInit();
+            this.fLIdioma.SuspendLayout();
             this.SuspendLayout();
             // 
             // pBLogo
@@ -66,7 +71,7 @@
             // 
             // btnInvitado
             // 
-            this.btnInvitado.Location = new System.Drawing.Point(1041, 22);
+            this.btnInvitado.Location = new System.Drawing.Point(1041, 564);
             this.btnInvitado.Name = "btnInvitado";
             this.btnInvitado.Size = new System.Drawing.Size(101, 56);
             this.btnInvitado.TabIndex = 2;
@@ -152,6 +157,56 @@
             this.linkLabel1.Text = "¿Has olvidado tu contraseña?";
             this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked);
             // 
+            // fLIdioma
+            // 
+            this.fLIdioma.BackColor = System.Drawing.Color.Transparent;
+            this.fLIdioma.Controls.Add(this.btnEspaña);
+            this.fLIdioma.Controls.Add(this.btnUSA);
+            this.fLIdioma.Location = new System.Drawing.Point(1102, 12);
+            this.fLIdioma.Name = "fLIdioma";
+            this.fLIdioma.Size = new System.Drawing.Size(44, 66);
+            this.fLIdioma.TabIndex = 60;
+            this.fLIdioma.Visible = false;
+            // 
+            // btnEspaña
+            // 
+            this.btnEspaña.BackgroundImage = global::Programa_Proyecto.Properties.Resources.Bandera_de_España1;
+            this.btnEspaña.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnEspaña.Location = new System.Drawing.Point(3, 3);
+            this.btnEspaña.Name = "btnEspaña";
+            this.btnEspaña.Size = new System.Drawing.Size(40, 26);
+            this.btnEspaña.TabIndex = 20;
+            this.btnEspaña.UseVisualStyleBackColor = true;
+            // 
+            // btnUSA
+            // 
+            this.btnUSA.BackgroundImage = global::Programa_Proyecto.Properties.Resources.bandera_usa_3;
+            this.btnUSA.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnUSA.Location = new System.Drawing.Point(3, 35);
+            this.btnUSA.Name = "btnUSA";
+            this.btnUSA.Size = new System.Drawing.Size(40, 29);
+            this.btnUSA.TabIndex = 19;
+            this.btnUSA.UseVisualStyleBackColor = true;
+            this.btnUSA.Click += new System.EventHandler(this.btnUSA_Click);
+            // 
+            // btnIdioma
+            // 
+            this.btnIdioma.BackColor = System.Drawing.Color.Transparent;
+            this.btnIdioma.FlatAppearance.BorderColor = System.Drawing.SystemColors.WindowText;
+            this.btnIdioma.FlatAppearance.BorderSize = 0;
+            this.btnIdioma.FlatAppearance.MouseDownBackColor = System.Drawing.SystemColors.Window;
+            this.btnIdioma.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
+            this.btnIdioma.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnIdioma.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnIdioma.ForeColor = System.Drawing.SystemColors.MenuText;
+            this.btnIdioma.Location = new System.Drawing.Point(1029, 12);
+            this.btnIdioma.Name = "btnIdioma";
+            this.btnIdioma.Size = new System.Drawing.Size(67, 29);
+            this.btnIdioma.TabIndex = 59;
+            this.btnIdioma.Text = "Idioma";
+            this.btnIdioma.UseVisualStyleBackColor = false;
+            this.btnIdioma.Click += new System.EventHandler(this.btnIdioma_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -159,6 +214,8 @@
             this.BackgroundImage = global::Programa_Proyecto.Properties.Resources.Fondo_ventanas;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(1154, 632);
+            this.Controls.Add(this.fLIdioma);
+            this.Controls.Add(this.btnIdioma);
             this.Controls.Add(this.linkLabel1);
             this.Controls.Add(this.btnEntrar);
             this.Controls.Add(this.btnCancelar);
@@ -175,6 +232,7 @@
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pBLogo)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pBIsologo)).EndInit();
+            this.fLIdioma.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -192,6 +250,10 @@
         private System.Windows.Forms.Button btnCancelar;
         private System.Windows.Forms.Button btnEntrar;
         private System.Windows.Forms.LinkLabel linkLabel1;
+        private System.Windows.Forms.FlowLayoutPanel fLIdioma;
+        private System.Windows.Forms.Button btnEspaña;
+        private System.Windows.Forms.Button btnUSA;
+        private System.Windows.Forms.Button btnIdioma;
     }
 }
 

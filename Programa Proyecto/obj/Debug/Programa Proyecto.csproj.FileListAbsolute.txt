@@ -79,3 +79,21 @@ C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\obj\Debug\Program
 C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\obj\Debug\Programa Proyecto.csproj.CoreCompileInputs.cache
 C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\obj\Debug\Programa Proyecto.exe
 C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\obj\Debug\Programa Proyecto.pdb
+C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaInicioENG.resources
+C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaCambiarContraseñaENG.resources
+C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaContactoENG.resources
+C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaEquiposBasketballENG.resources
+C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaEquiposENG.resources
+C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaEquiposFutbolENG.resources
+C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaEquiposHandballENG.resources
+C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaFixtureBasketballENG.resources
+C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaFixtureFutbolENG.resources
+C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaFixtureHandballENG.resources
+C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaIniciarSesionENG.resources
+C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaJugadoresENG.resources
+C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaRegistrarUsuariosENG.resources
+C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaSobreNosotrosENG.resources
+C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaSoporteENG.resources
+C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaTorneosBasketballENG.resources
+C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaTorneosFutbolENG.resources
+C:\Users\admin\Desktop\Programa del Proyecto\Programa Proyecto\obj\Debug\Programa_Proyecto.VentanaTorneosHandballENG.resources

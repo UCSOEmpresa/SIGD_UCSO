@@ -245,6 +245,7 @@
             this.btnUSA.Size = new System.Drawing.Size(40, 29);
             this.btnUSA.TabIndex = 19;
             this.btnUSA.UseVisualStyleBackColor = true;
+            this.btnUSA.Click += new System.EventHandler(this.btnUSA_Click);
             // 
             // fLFixture
             // 
@@ -546,6 +547,7 @@
             this.DoubleBuffered = true;
             this.Name = "VentanaContacto";
             this.Text = "VentanaContacto";
+            this.Load += new System.EventHandler(this.VentanaContacto_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pBLogochico)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pBAtras)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pBIcono)).EndInit();

@@ -175,5 +175,12 @@ namespace Programa_Proyecto
             VentanaInicio frm = new VentanaInicio();
             frm.Show();
         }
+
+        private void btnUSA_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            VentanaFixtureBasketballENG frm = new VentanaFixtureBasketballENG();
+            frm.Show();
+        }
     }
 }

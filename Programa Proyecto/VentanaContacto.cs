@@ -158,5 +158,17 @@ namespace Programa_Proyecto
             VentanaInicio frm = new VentanaInicio();
             frm.Show();
         }
+
+        private void btnUSA_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            VentanaContactoENG frm = new VentanaContactoENG();
+            frm.Show();
+        }
+
+        private void VentanaContacto_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

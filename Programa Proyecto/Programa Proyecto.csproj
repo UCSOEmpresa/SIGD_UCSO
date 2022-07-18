@@ -60,11 +60,23 @@
     <Compile Include="VentanaCambiarContraseña.Designer.cs">
       <DependentUpon>VentanaCambiarContraseña.cs</DependentUpon>
     </Compile>
+    <Compile Include="VentanaCambiarContraseñaENG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaCambiarContraseñaENG.Designer.cs">
+      <DependentUpon>VentanaCambiarContraseñaENG.cs</DependentUpon>
+    </Compile>
     <Compile Include="VentanaContacto.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="VentanaContacto.Designer.cs">
       <DependentUpon>VentanaContacto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaContactoENG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaContactoENG.Designer.cs">
+      <DependentUpon>VentanaContactoENG.cs</DependentUpon>
     </Compile>
     <Compile Include="VentanaEquipos.cs">
       <SubType>Form</SubType>
@@ -78,11 +90,29 @@
     <Compile Include="VentanaEquiposBasketball.Designer.cs">
       <DependentUpon>VentanaEquiposBasketball.cs</DependentUpon>
     </Compile>
+    <Compile Include="VentanaEquiposBasketballENG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaEquiposBasketballENG.Designer.cs">
+      <DependentUpon>VentanaEquiposBasketballENG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaEquiposENG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaEquiposENG.Designer.cs">
+      <DependentUpon>VentanaEquiposENG.cs</DependentUpon>
+    </Compile>
     <Compile Include="VentanaEquiposFutbol.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="VentanaEquiposFutbol.Designer.cs">
       <DependentUpon>VentanaEquiposFutbol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaEquiposFutbolENG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaEquiposFutbolENG.Designer.cs">
+      <DependentUpon>VentanaEquiposFutbolENG.cs</DependentUpon>
     </Compile>
     <Compile Include="VentanaEquiposHandball.cs">
       <SubType>Form</SubType>
@@ -90,11 +120,59 @@
     <Compile Include="VentanaEquiposHandball.Designer.cs">
       <DependentUpon>VentanaEquiposHandball.cs</DependentUpon>
     </Compile>
+    <Compile Include="VentanaEquiposHandballENG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaEquiposHandballENG.Designer.cs">
+      <DependentUpon>VentanaEquiposHandballENG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaFixtureBasketballENG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaFixtureBasketballENG.Designer.cs">
+      <DependentUpon>VentanaFixtureBasketballENG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaFixtureFutbolENG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaFixtureFutbolENG.Designer.cs">
+      <DependentUpon>VentanaFixtureFutbolENG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaFixtureHandballENG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaFixtureHandballENG.Designer.cs">
+      <DependentUpon>VentanaFixtureHandballENG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaIniciarSesionENG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaIniciarSesionENG.Designer.cs">
+      <DependentUpon>VentanaIniciarSesionENG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaInicioENG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaInicioENG.Designer.cs">
+      <DependentUpon>VentanaInicioENG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaJugadoresENG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaJugadoresENG.Designer.cs">
+      <DependentUpon>VentanaJugadoresENG.cs</DependentUpon>
+    </Compile>
     <Compile Include="VentanaRegistrarUsuarios.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="VentanaRegistrarUsuarios.Designer.cs">
       <DependentUpon>VentanaRegistrarUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaRegistrarUsuariosENG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaRegistrarUsuariosENG.Designer.cs">
+      <DependentUpon>VentanaRegistrarUsuariosENG.cs</DependentUpon>
     </Compile>
     <Compile Include="VentanaSobreNosotros.cs">
       <SubType>Form</SubType>
@@ -102,11 +180,23 @@
     <Compile Include="VentanaSobreNosotros.Designer.cs">
       <DependentUpon>VentanaSobreNosotros.cs</DependentUpon>
     </Compile>
+    <Compile Include="VentanaSobreNosotrosENG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaSobreNosotrosENG.Designer.cs">
+      <DependentUpon>VentanaSobreNosotrosENG.cs</DependentUpon>
+    </Compile>
     <Compile Include="VentanaSoporte.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="VentanaSoporte.Designer.cs">
       <DependentUpon>VentanaSoporte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaSoporteENG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaSoporteENG.Designer.cs">
+      <DependentUpon>VentanaSoporteENG.cs</DependentUpon>
     </Compile>
     <Compile Include="VentanaTorneosBasketball.cs">
       <SubType>Form</SubType>
@@ -114,11 +204,23 @@
     <Compile Include="VentanaTorneosBasketball.Designer.cs">
       <DependentUpon>VentanaTorneosBasketball.cs</DependentUpon>
     </Compile>
+    <Compile Include="VentanaTorneosBasketballENG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaTorneosBasketballENG.Designer.cs">
+      <DependentUpon>VentanaTorneosBasketballENG.cs</DependentUpon>
+    </Compile>
     <Compile Include="VentanaTorneosFutbol.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="VentanaTorneosFutbol.Designer.cs">
       <DependentUpon>VentanaTorneosFutbol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaTorneosFutbolENG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaTorneosFutbolENG.Designer.cs">
+      <DependentUpon>VentanaTorneosFutbolENG.cs</DependentUpon>
     </Compile>
     <Compile Include="VentanaTorneosHandball.cs">
       <SubType>Form</SubType>
@@ -156,6 +258,12 @@
     <Compile Include="VentanaJugadores.Designer.cs">
       <DependentUpon>VentanaJugadores.cs</DependentUpon>
     </Compile>
+    <Compile Include="VentanaTorneosHandballENG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaTorneosHandballENG.Designer.cs">
+      <DependentUpon>VentanaTorneosHandballENG.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -172,8 +280,14 @@
     <EmbeddedResource Include="VentanaCambiarContraseña.resx">
       <DependentUpon>VentanaCambiarContraseña.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="VentanaCambiarContraseñaENG.resx">
+      <DependentUpon>VentanaCambiarContraseñaENG.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="VentanaContacto.resx">
       <DependentUpon>VentanaContacto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaContactoENG.resx">
+      <DependentUpon>VentanaContactoENG.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="VentanaEquipos.resx">
       <DependentUpon>VentanaEquipos.cs</DependentUpon>
@@ -181,26 +295,71 @@
     <EmbeddedResource Include="VentanaEquiposBasketball.resx">
       <DependentUpon>VentanaEquiposBasketball.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="VentanaEquiposBasketballENG.resx">
+      <DependentUpon>VentanaEquiposBasketballENG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaEquiposENG.resx">
+      <DependentUpon>VentanaEquiposENG.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="VentanaEquiposFutbol.resx">
       <DependentUpon>VentanaEquiposFutbol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaEquiposFutbolENG.resx">
+      <DependentUpon>VentanaEquiposFutbolENG.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="VentanaEquiposHandball.resx">
       <DependentUpon>VentanaEquiposHandball.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="VentanaEquiposHandballENG.resx">
+      <DependentUpon>VentanaEquiposHandballENG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaFixtureBasketballENG.resx">
+      <DependentUpon>VentanaFixtureBasketballENG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaFixtureFutbolENG.resx">
+      <DependentUpon>VentanaFixtureFutbolENG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaFixtureHandballENG.resx">
+      <DependentUpon>VentanaFixtureHandballENG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaIniciarSesionENG.resx">
+      <DependentUpon>VentanaIniciarSesionENG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaInicioENG.resx">
+      <DependentUpon>VentanaInicioENG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaJugadoresENG.resx">
+      <DependentUpon>VentanaJugadoresENG.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="VentanaRegistrarUsuarios.resx">
       <DependentUpon>VentanaRegistrarUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaRegistrarUsuariosENG.resx">
+      <DependentUpon>VentanaRegistrarUsuariosENG.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="VentanaSobreNosotros.resx">
       <DependentUpon>VentanaSobreNosotros.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="VentanaSobreNosotrosENG.resx">
+      <DependentUpon>VentanaSobreNosotrosENG.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="VentanaSoporte.resx">
       <DependentUpon>VentanaSoporte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaSoporteENG.resx">
+      <DependentUpon>VentanaSoporteENG.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="VentanaTorneosBasketball.resx">
       <DependentUpon>VentanaTorneosBasketball.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="VentanaTorneosBasketballENG.resx">
+      <DependentUpon>VentanaTorneosBasketballENG.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="VentanaTorneosFutbol.resx">
       <DependentUpon>VentanaTorneosFutbol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaTorneosFutbolENG.resx">
+      <DependentUpon>VentanaTorneosFutbolENG.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="VentanaTorneosHandball.resx">
       <DependentUpon>VentanaTorneosHandball.cs</DependentUpon>
@@ -219,6 +378,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="VentanaJugadores.resx">
       <DependentUpon>VentanaJugadores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaTorneosHandballENG.resx">
+      <DependentUpon>VentanaTorneosHandballENG.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

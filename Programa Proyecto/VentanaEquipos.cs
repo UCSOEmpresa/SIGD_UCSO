@@ -176,5 +176,17 @@ namespace Programa_Proyecto
             VentanaInicio frm = new VentanaInicio();
             frm.Show();
         }
+
+        private void btnatras_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnUSA_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            VentanaEquiposENG frm = new VentanaEquiposENG();
+            frm.Show();
+        }
     }
 }

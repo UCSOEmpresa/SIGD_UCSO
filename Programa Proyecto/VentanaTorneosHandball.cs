@@ -180,5 +180,12 @@ namespace Programa_Proyecto
         {
 
         }
+
+        private void btnUSA_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            VentanaTorneosHandballENG frm = new VentanaTorneosHandballENG();
+            frm.Show();
+        }
     }
 }
