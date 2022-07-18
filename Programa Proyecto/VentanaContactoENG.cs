@@ -117,5 +117,41 @@ namespace Programa_Proyecto
                 MessageBox.Show("Esta vacío");
             }
         }
+
+        private void lblFutbol_Click(object sender, EventArgs e)
+        {
+            VentanaFixtureFutbolENG frm = new VentanaFixtureFutbolENG();
+            frm.Show();
+        }
+
+        private void lblBasket_Click(object sender, EventArgs e)
+        {
+            VentanaFixtureBasketballENG frm = new VentanaFixtureBasketballENG();
+            frm.Show();
+        }
+
+        private void lblHandball_Click(object sender, EventArgs e)
+        {
+            VentanaFixtureHandballENG frm = new VentanaFixtureHandballENG();
+            frm.Show();
+        }
+
+        private void lblFutbol2_Click(object sender, EventArgs e)
+        {
+            VentanaTorneosFutbolENG frm = new VentanaTorneosFutbolENG();
+            frm.Show();
+        }
+
+        private void lblBasket2_Click(object sender, EventArgs e)
+        {
+            VentanaTorneosBasketballENG frm = new VentanaTorneosBasketballENG();
+            frm.Show();
+        }
+
+        private void lblHandball2_Click(object sender, EventArgs e)
+        {
+            VentanaTorneosHandballENG frm = new VentanaTorneosHandballENG();
+            frm.Show();
+        }
     }
 }

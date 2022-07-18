@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(VentanaInicio));
             this.pBIsologo = new System.Windows.Forms.PictureBox();
             this.btnFixture = new System.Windows.Forms.Button();
             this.btnEquipos = new System.Windows.Forms.Button();
@@ -462,6 +463,7 @@
             this.Controls.Add(this.btnFixture);
             this.Controls.Add(this.pBIsologo);
             this.DoubleBuffered = true;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "VentanaInicio";
             this.Text = "VentanaInicio";
             ((System.ComponentModel.ISupportInitialize)(this.pBIsologo)).EndInit();

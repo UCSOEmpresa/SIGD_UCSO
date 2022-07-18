@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(VentanaRegistrarUsuarios));
             this.pBIsologo = new System.Windows.Forms.PictureBox();
             this.pBLogo = new System.Windows.Forms.PictureBox();
             this.lbl1 = new System.Windows.Forms.Label();
@@ -381,6 +382,7 @@
             this.Controls.Add(this.pBLogo);
             this.Controls.Add(this.pBIsologo);
             this.DoubleBuffered = true;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "VentanaRegistrarUsuarios";
             this.Text = "VentanaRegistrarUsuarios";
             this.Load += new System.EventHandler(this.VentanaRegistrarUsuarios_Load);

@@ -134,8 +134,7 @@ namespace Programa_Proyecto
 
         private void lblFutbol_Click(object sender, EventArgs e)
         {
-            VentanaFixtureFutbol frm = new VentanaFixtureFutbol();
-            frm.Show();
+            
         }
 
         private void btnSN_Click(object sender, EventArgs e)

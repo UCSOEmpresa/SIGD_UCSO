@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(VentanaFixtureBasketball));
             this.listViewFixture = new System.Windows.Forms.ListView();
             this.btnBuscarFix = new System.Windows.Forms.Button();
             this.txtFix = new System.Windows.Forms.TextBox();
@@ -525,6 +526,7 @@
             this.Controls.Add(this.btnFixture);
             this.Controls.Add(this.pBIsologo);
             this.DoubleBuffered = true;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "VentanaFixtureBasketball";
             this.Text = "VentanaFixtureBasketball";
             ((System.ComponentModel.ISupportInitialize)(this.pBLogochico)).EndInit();

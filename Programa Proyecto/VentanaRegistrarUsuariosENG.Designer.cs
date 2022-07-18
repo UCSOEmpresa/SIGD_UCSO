@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(VentanaRegistrarUsuariosENG));
             this.btnSN = new System.Windows.Forms.Button();
             this.btnSoporte = new System.Windows.Forms.Button();
             this.pBLogochico = new System.Windows.Forms.PictureBox();
@@ -376,6 +377,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.DoubleBuffered = true;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "VentanaRegistrarUsuariosENG";
             this.Text = "VentanaRegistrarUsuariosENG";
             ((System.ComponentModel.ISupportInitialize)(this.pBLogochico)).EndInit();

@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(VentanaTorneosHandball));
             this.pBLogo = new System.Windows.Forms.PictureBox();
             this.btnBuscarTor = new System.Windows.Forms.Button();
             this.txtBuscarTor = new System.Windows.Forms.TextBox();
@@ -531,6 +532,7 @@
             this.Controls.Add(this.btnFixture);
             this.Controls.Add(this.pBIsologo);
             this.DoubleBuffered = true;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "VentanaTorneosHandball";
             this.Text = "VentanaEquiposHandball";
             this.Load += new System.EventHandler(this.VentanaTorneosHandball_Load);

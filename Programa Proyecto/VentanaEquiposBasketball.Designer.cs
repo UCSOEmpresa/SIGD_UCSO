@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(VentanaEquiposBasketball));
             this.btnSelecciones = new System.Windows.Forms.Button();
             this.btnSudAmerica = new System.Windows.Forms.Button();
             this.btnEuropa = new System.Windows.Forms.Button();
@@ -565,6 +566,7 @@
             this.Controls.Add(this.btnFixture);
             this.Controls.Add(this.pBIsologo);
             this.DoubleBuffered = true;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "VentanaEquiposBasketball";
             this.Text = "VentanaEquiposBasketball";
             ((System.ComponentModel.ISupportInitialize)(this.pBLogo)).EndInit();

@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(VentanaIniciarSesionENG));
             this.linkLabel1 = new System.Windows.Forms.LinkLabel();
             this.btnEntrar = new System.Windows.Forms.Button();
             this.btnCancelar = new System.Windows.Forms.Button();
@@ -222,6 +223,7 @@
             this.Controls.Add(this.pBIsologo);
             this.Controls.Add(this.pBLogo);
             this.DoubleBuffered = true;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "VentanaIniciarSesionENG";
             this.Text = "VentanaIniciarSesionENG";
             ((System.ComponentModel.ISupportInitialize)(this.pBIsologo)).EndInit();

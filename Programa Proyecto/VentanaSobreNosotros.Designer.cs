@@ -586,6 +586,7 @@
             this.Controls.Add(this.btnFixture);
             this.Controls.Add(this.pBIsologo);
             this.DoubleBuffered = true;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "VentanaSobreNosotros";
             this.Text = "VentanaSobreNosotros";
             ((System.ComponentModel.ISupportInitialize)(this.pBAtras)).EndInit();

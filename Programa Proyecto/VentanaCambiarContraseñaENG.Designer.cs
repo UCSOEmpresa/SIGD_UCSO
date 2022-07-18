@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(VentanaCambiarContraseñaENG));
             this.pBAtras = new System.Windows.Forms.PictureBox();
             this.btnAceptar = new System.Windows.Forms.Button();
             this.label3 = new System.Windows.Forms.Label();
@@ -274,6 +275,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.DoubleBuffered = true;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "VentanaCambiarContraseñaENG";
             this.Text = "VentanaCambiarContraseñaENG";
             ((System.ComponentModel.ISupportInitialize)(this.pBAtras)).EndInit();

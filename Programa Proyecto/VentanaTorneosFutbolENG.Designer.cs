@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(VentanaTorneosFutbolENG));
             this.pBIcono = new System.Windows.Forms.PictureBox();
             this.fLTorneos = new System.Windows.Forms.FlowLayoutPanel();
             this.lblFutbol2 = new System.Windows.Forms.Label();
@@ -103,6 +104,7 @@
             this.lblFutbol2.Size = new System.Drawing.Size(52, 13);
             this.lblFutbol2.TabIndex = 3;
             this.lblFutbol2.Text = "Football";
+            this.lblFutbol2.Click += new System.EventHandler(this.lblFutbol2_Click);
             // 
             // lblBasket2
             // 
@@ -114,6 +116,7 @@
             this.lblBasket2.Size = new System.Drawing.Size(66, 13);
             this.lblBasket2.TabIndex = 4;
             this.lblBasket2.Text = "Basketball";
+            this.lblBasket2.Click += new System.EventHandler(this.lblBasket2_Click);
             // 
             // lblHandball2
             // 
@@ -125,6 +128,7 @@
             this.lblHandball2.Size = new System.Drawing.Size(57, 13);
             this.lblHandball2.TabIndex = 5;
             this.lblHandball2.Text = "Handball";
+            this.lblHandball2.Click += new System.EventHandler(this.lblHandball2_Click);
             // 
             // fLIdioma
             // 
@@ -180,6 +184,7 @@
             this.lblFutbol.Size = new System.Drawing.Size(52, 13);
             this.lblFutbol.TabIndex = 0;
             this.lblFutbol.Text = "Football";
+            this.lblFutbol.Click += new System.EventHandler(this.lblFutbol_Click);
             // 
             // lblBasket
             // 
@@ -191,6 +196,7 @@
             this.lblBasket.Size = new System.Drawing.Size(66, 13);
             this.lblBasket.TabIndex = 1;
             this.lblBasket.Text = "Basketball";
+            this.lblBasket.Click += new System.EventHandler(this.lblBasket_Click);
             // 
             // lblHandball
             // 
@@ -202,6 +208,7 @@
             this.lblHandball.Size = new System.Drawing.Size(57, 13);
             this.lblHandball.TabIndex = 2;
             this.lblHandball.Text = "Handball";
+            this.lblHandball.Click += new System.EventHandler(this.lblHandball_Click);
             // 
             // btnIdioma
             // 
@@ -520,6 +527,7 @@
             this.Controls.Add(this.btnFixture);
             this.Controls.Add(this.pBIsologo);
             this.DoubleBuffered = true;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "VentanaTorneosFutbolENG";
             this.Text = "VentanaTorneosFutbolENG";
             ((System.ComponentModel.ISupportInitialize)(this.pBIcono)).EndInit();
