@@ -19,6 +19,7 @@ namespace Programa_Proyecto
 
         private void btnFutbol_Click(object sender, EventArgs e)
         {
+
             VentanaEquiposFutbol frm = new VentanaEquiposFutbol();
             frm.Show();
         }

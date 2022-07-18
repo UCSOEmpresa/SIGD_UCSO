@@ -72,6 +72,7 @@ namespace Programa_Proyecto
 
         private void btnIniciarSesion_Click(object sender, EventArgs e)
         {
+            this.Hide();
             Form1 frm = new Form1();
             frm.Show();
         }

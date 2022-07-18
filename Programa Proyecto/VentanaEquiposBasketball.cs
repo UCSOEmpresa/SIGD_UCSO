@@ -60,6 +60,7 @@ namespace Programa_Proyecto
 
         private void btnJugadores_Click(object sender, EventArgs e)
         {
+            this.Hide();
             VentanaJugadores frm = new VentanaJugadores();
             frm.Show();
         }

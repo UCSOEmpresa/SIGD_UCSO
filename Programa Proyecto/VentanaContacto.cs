@@ -123,6 +123,7 @@ namespace Programa_Proyecto
 
         private void btnSN_Click(object sender, EventArgs e)
         {
+            
             VentanaSobreNosotros frm = new VentanaSobreNosotros();
             frm.Show();
         }

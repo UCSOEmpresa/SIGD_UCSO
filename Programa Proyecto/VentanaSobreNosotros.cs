@@ -87,6 +87,7 @@ namespace Programa_Proyecto
 
         private void btnIniciarSesion_Click(object sender, EventArgs e)
         {
+            this.Hide();
             Form1 frm = new Form1();
             frm.Show();
         }
@@ -135,6 +136,7 @@ namespace Programa_Proyecto
 
         private void btnEquipos_Click(object sender, EventArgs e)
         {
+
             VentanaEquipos frm = new VentanaEquipos();
             frm.Show();
         }
@@ -152,6 +154,7 @@ namespace Programa_Proyecto
 
         private void btnSoporte_Click(object sender, EventArgs e)
         {
+            this.Hide();
             VentanaSoporte frm = new VentanaSoporte();
             frm.Show();
         }

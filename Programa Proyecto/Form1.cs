@@ -63,6 +63,7 @@ namespace Programa_Proyecto
 
         private void btnInvitado_Click(object sender, EventArgs e)
         {
+            this.Hide();
             VentanaInicio frm = new VentanaInicio();
             frm.Show();
         }

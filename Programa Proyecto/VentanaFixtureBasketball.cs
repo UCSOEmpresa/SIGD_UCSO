@@ -60,12 +60,14 @@ namespace Programa_Proyecto
 
         private void btnJugadores_Click(object sender, EventArgs e)
         {
+            this.Hide();
             VentanaJugadores frm = new VentanaJugadores();
             frm.Show();
         }
 
         private void btnEquipos_Click(object sender, EventArgs e)
         {
+            this.Hide();
             VentanaEquipos frm = new VentanaEquipos();
             frm.Show();
         }
@@ -77,18 +79,21 @@ namespace Programa_Proyecto
 
         private void btnContacto_Click(object sender, EventArgs e)
         {
+            this.Hide();
             VentanaContacto frm = new VentanaContacto();
             frm.Show();
         }
 
         private void btnIniciarSesion_Click(object sender, EventArgs e)
         {
+            this.Hide();
             Form1 frm = new Form1();
             frm.Show();
         }
 
         private void lblHandball_Click(object sender, EventArgs e)
         {
+            this.Hide();
             VentanaFixtureHandball frm = new VentanaFixtureHandball();
             frm.Show();
         }
@@ -125,6 +130,7 @@ namespace Programa_Proyecto
 
         private void lblFutbol_Click(object sender, EventArgs e)
         {
+            this.Hide();
             VentanaFixtureFutbol frm = new VentanaFixtureFutbol();
             frm.Show();
         }

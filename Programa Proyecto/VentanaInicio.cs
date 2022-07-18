@@ -65,18 +65,21 @@ namespace Programa_Proyecto
 
         private void btnJugadores_Click(object sender, EventArgs e)
         {
+            this.Hide();
             VentanaJugadores frm = new VentanaJugadores();
             frm.Show();
         }
 
         private void btnContacto_Click(object sender, EventArgs e)
         {
+            this.Hide();
             VentanaContacto frm = new VentanaContacto();
             frm.Show();
         }
 
         private void btnIniciarSesion_Click(object sender, EventArgs e)
         {
+            this.Hide();
             Form1 frm = new Form1();
             frm.Show();
         }
@@ -108,36 +111,42 @@ namespace Programa_Proyecto
 
         private void lblFutbol_Click(object sender, EventArgs e)
         {
+            this.Hide();
             VentanaFixtureFutbol frm = new VentanaFixtureFutbol();
             frm.Show();
         }
 
         private void lblBasket_Click(object sender, EventArgs e)
         {
+            this.Hide();
             VentanaFixtureBasketball frm = new VentanaFixtureBasketball();
             frm.Show();
         }
 
         private void lblHandball_Click(object sender, EventArgs e)
         {
+            this.Hide();
             VentanaFixtureHandball frm = new VentanaFixtureHandball();
             frm.Show();
         }
 
         private void lblFutbol2_Click(object sender, EventArgs e)
         {
+            this.Hide();
             VentanaTorneosFutbol frm = new VentanaTorneosFutbol();
             frm.Show();
         }
 
         private void lblBasket2_Click(object sender, EventArgs e)
         {
+            this.Hide();
             VentanaTorneosBasketball frm = new VentanaTorneosBasketball();
             frm.Show();
         }
 
         private void lblHandball2_Click(object sender, EventArgs e)
         {
+            this.Hide();
             VentanaTorneosHandball frm = new VentanaTorneosHandball();
             frm.Show();
 
@@ -145,6 +154,7 @@ namespace Programa_Proyecto
 
         private void btnEquipos_Click(object sender, EventArgs e)
         {
+            this.Hide();
             VentanaEquipos frm = new VentanaEquipos();
             frm.Show();
         }

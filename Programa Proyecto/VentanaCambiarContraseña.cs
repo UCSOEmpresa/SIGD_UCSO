@@ -52,13 +52,14 @@ namespace Programa_Proyecto
 
         private void btnSN_Click(object sender, EventArgs e)
         {
-            
+            this.Hide();
             VentanaSobreNosotros frm = new VentanaSobreNosotros();
             frm.Show();
         }
 
         private void btnSoporte_Click(object sender, EventArgs e)
         {
+            this.Hide();
             VentanaSoporte frm = new VentanaSoporte();
             frm.Show();
         }
