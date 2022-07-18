@@ -133,5 +133,10 @@ namespace Programa_Proyecto
             VentanaRegistrarUsuariosENG frm = new VentanaRegistrarUsuariosENG();
             frm.Show();
         }
+
+        private void btnCancelar_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

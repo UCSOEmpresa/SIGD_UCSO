@@ -72,7 +72,7 @@
             // 
             // btnInvitado
             // 
-            this.btnInvitado.Location = new System.Drawing.Point(1041, 564);
+            this.btnInvitado.Location = new System.Drawing.Point(1029, 553);
             this.btnInvitado.Name = "btnInvitado";
             this.btnInvitado.Size = new System.Drawing.Size(101, 56);
             this.btnInvitado.TabIndex = 2;
@@ -163,7 +163,7 @@
             this.fLIdioma.BackColor = System.Drawing.Color.Transparent;
             this.fLIdioma.Controls.Add(this.btnEspaña);
             this.fLIdioma.Controls.Add(this.btnUSA);
-            this.fLIdioma.Location = new System.Drawing.Point(1102, 12);
+            this.fLIdioma.Location = new System.Drawing.Point(1102, 34);
             this.fLIdioma.Name = "fLIdioma";
             this.fLIdioma.Size = new System.Drawing.Size(44, 66);
             this.fLIdioma.TabIndex = 60;
@@ -200,7 +200,7 @@
             this.btnIdioma.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnIdioma.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnIdioma.ForeColor = System.Drawing.SystemColors.MenuText;
-            this.btnIdioma.Location = new System.Drawing.Point(1029, 12);
+            this.btnIdioma.Location = new System.Drawing.Point(1029, 34);
             this.btnIdioma.Name = "btnIdioma";
             this.btnIdioma.Size = new System.Drawing.Size(67, 29);
             this.btnIdioma.TabIndex = 59;

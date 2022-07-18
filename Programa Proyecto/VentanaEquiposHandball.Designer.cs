@@ -144,7 +144,7 @@
             // 
             this.pBLogo.BackColor = System.Drawing.Color.Transparent;
             this.pBLogo.Image = global::Programa_Proyecto.Properties.Resources.LOGO_UCSO;
-            this.pBLogo.Location = new System.Drawing.Point(511, 156);
+            this.pBLogo.Location = new System.Drawing.Point(523, 160);
             this.pBLogo.Name = "pBLogo";
             this.pBLogo.Size = new System.Drawing.Size(115, 93);
             this.pBLogo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;

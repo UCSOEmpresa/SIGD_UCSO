@@ -92,6 +92,7 @@
             this.btnBuscarFix.TabIndex = 238;
             this.btnBuscarFix.Text = "Search";
             this.btnBuscarFix.UseVisualStyleBackColor = false;
+            this.btnBuscarFix.Click += new System.EventHandler(this.btnBuscarFix_Click);
             // 
             // txtFix
             // 
@@ -309,6 +310,7 @@
             this.lblBasket.TabIndex = 1;
             this.lblBasket.Text = "Basketball";
             this.lblBasket.Click += new System.EventHandler(this.lblBasket_Click);
+            this.lblBasket.MouseClick += new System.Windows.Forms.MouseEventHandler(this.Error);
             // 
             // lblHandball
             // 
@@ -376,6 +378,7 @@
             this.txtBusqueda.Size = new System.Drawing.Size(248, 20);
             this.txtBusqueda.TabIndex = 223;
             this.txtBusqueda.Text = "Search matches, players, tournaments and more...";
+            this.txtBusqueda.MouseClick += new System.Windows.Forms.MouseEventHandler(this.Clear);
             // 
             // btnTorneos
             // 
@@ -477,6 +480,7 @@
             this.pBIsologo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pBIsologo.TabIndex = 217;
             this.pBIsologo.TabStop = false;
+            this.pBIsologo.Click += new System.EventHandler(this.pBIsologo_Click);
             // 
             // pBAtras
             // 

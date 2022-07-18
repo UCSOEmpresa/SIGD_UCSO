@@ -142,6 +142,7 @@
             this.pBIsologo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pBIsologo.TabIndex = 246;
             this.pBIsologo.TabStop = false;
+            this.pBIsologo.Click += new System.EventHandler(this.pBIsologo_Click);
             // 
             // cBMostrar
             // 
@@ -161,12 +162,13 @@
             this.btnCancelar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnCancelar.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCancelar.ForeColor = System.Drawing.SystemColors.Window;
-            this.btnCancelar.Location = new System.Drawing.Point(594, 483);
+            this.btnCancelar.Location = new System.Drawing.Point(606, 484);
             this.btnCancelar.Name = "btnCancelar";
             this.btnCancelar.Size = new System.Drawing.Size(130, 50);
             this.btnCancelar.TabIndex = 260;
             this.btnCancelar.Text = "Cancel";
             this.btnCancelar.UseVisualStyleBackColor = false;
+            this.btnCancelar.Click += new System.EventHandler(this.btnCancelar_Click);
             // 
             // btnRegistrar
             // 
@@ -175,12 +177,13 @@
             this.btnRegistrar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnRegistrar.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnRegistrar.ForeColor = System.Drawing.SystemColors.Window;
-            this.btnRegistrar.Location = new System.Drawing.Point(422, 483);
+            this.btnRegistrar.Location = new System.Drawing.Point(434, 484);
             this.btnRegistrar.Name = "btnRegistrar";
             this.btnRegistrar.Size = new System.Drawing.Size(130, 50);
             this.btnRegistrar.TabIndex = 259;
             this.btnRegistrar.Text = "Register";
             this.btnRegistrar.UseVisualStyleBackColor = false;
+            this.btnRegistrar.Click += new System.EventHandler(this.btnRegistrar_Click);
             // 
             // label5
             // 

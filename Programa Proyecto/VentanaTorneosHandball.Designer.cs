@@ -397,6 +397,7 @@
             this.txtBusqueda.Size = new System.Drawing.Size(221, 20);
             this.txtBusqueda.TabIndex = 128;
             this.txtBusqueda.Text = "Buscar partidos, jugadores, torneos y más...";
+            this.txtBusqueda.MouseClick += new System.Windows.Forms.MouseEventHandler(this.Clear);
             // 
             // btnTorneos
             // 

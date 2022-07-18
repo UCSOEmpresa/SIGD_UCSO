@@ -95,6 +95,7 @@
             this.btnBuscarTor.TabIndex = 266;
             this.btnBuscarTor.Text = "Search";
             this.btnBuscarTor.UseVisualStyleBackColor = false;
+            this.btnBuscarTor.Click += new System.EventHandler(this.btnBuscarTor_Click);
             // 
             // txtBuscarTor
             // 
@@ -104,6 +105,7 @@
             this.txtBuscarTor.Size = new System.Drawing.Size(437, 20);
             this.txtBuscarTor.TabIndex = 265;
             this.txtBuscarTor.Text = "Search Tournaments";
+            this.txtBuscarTor.MouseClick += new System.Windows.Forms.MouseEventHandler(this.Borrar);
             // 
             // lbl1
             // 
@@ -234,6 +236,7 @@
             this.lblBasket2.TabIndex = 4;
             this.lblBasket2.Text = "Basketball";
             this.lblBasket2.Click += new System.EventHandler(this.lblBasket2_Click);
+            this.lblBasket2.MouseClick += new System.Windows.Forms.MouseEventHandler(this.Error);
             // 
             // lblHandball2
             // 
@@ -381,6 +384,7 @@
             this.txtBusqueda.Size = new System.Drawing.Size(248, 20);
             this.txtBusqueda.TabIndex = 251;
             this.txtBusqueda.Text = "Search matches, players, tournaments and more...";
+            this.txtBusqueda.MouseClick += new System.Windows.Forms.MouseEventHandler(this.Clear);
             // 
             // btnTorneos
             // 
@@ -482,6 +486,7 @@
             this.pBIsologo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pBIsologo.TabIndex = 245;
             this.pBIsologo.TabStop = false;
+            this.pBIsologo.Click += new System.EventHandler(this.pBIsologo_Click);
             // 
             // pBAtras
             // 

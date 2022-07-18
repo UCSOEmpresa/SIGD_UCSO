@@ -110,7 +110,7 @@ namespace Programa_Proyecto
             }
             else
             {
-                MessageBox.Show("Esta vacío");
+                MessageBox.Show("It is empty");
             }
         }
 
@@ -139,14 +139,42 @@ namespace Programa_Proyecto
 
         private void lblBasket2_Click(object sender, EventArgs e)
         {
-            VentanaTorneosBasketballENG frm = new VentanaTorneosBasketballENG();
-            frm.Show();
+           
         }
 
         private void lblHandball2_Click(object sender, EventArgs e)
         {
             VentanaTorneosHandballENG frm = new VentanaTorneosHandballENG();
             frm.Show();
+        }
+
+        private void pBIsologo_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            VentanaInicio frm = new VentanaInicio();
+            frm.Show();
+        }
+
+        private void Clear(object sender, MouseEventArgs e)
+        {
+            txtBusqueda.Clear();
+        }
+
+        private void btnBuscarFix_Click(object sender, EventArgs e)
+        {
+            if (txtFix.Text != "")
+            {
+
+            }
+            else
+            {
+                MessageBox.Show("It is empty");
+            }
+        }
+
+        private void Error(object sender, MouseEventArgs e)
+        {
+            MessageBox.Show("You are already watching the fixture of the basketball tournaments");
         }
     }
 }

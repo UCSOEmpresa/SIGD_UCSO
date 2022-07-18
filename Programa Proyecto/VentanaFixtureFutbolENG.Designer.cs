@@ -256,6 +256,7 @@
             this.lblFutbol.TabIndex = 0;
             this.lblFutbol.Text = "Football";
             this.lblFutbol.Click += new System.EventHandler(this.lblFutbol_Click);
+            this.lblFutbol.MouseClick += new System.Windows.Forms.MouseEventHandler(this.Error);
             // 
             // lblBasket
             // 
@@ -335,6 +336,7 @@
             this.txtBusqueda.Size = new System.Drawing.Size(248, 20);
             this.txtBusqueda.TabIndex = 200;
             this.txtBusqueda.Text = "Search matches, players, tournaments and more...";
+            this.txtBusqueda.MouseClick += new System.Windows.Forms.MouseEventHandler(this.Clear);
             // 
             // btnTorneos
             // 
@@ -436,6 +438,7 @@
             this.pBIsologo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pBIsologo.TabIndex = 194;
             this.pBIsologo.TabStop = false;
+            this.pBIsologo.Click += new System.EventHandler(this.pBIsologo_Click);
             // 
             // listViewFixture
             // 
@@ -459,6 +462,7 @@
             this.btnBuscarFix.TabIndex = 215;
             this.btnBuscarFix.Text = "Search";
             this.btnBuscarFix.UseVisualStyleBackColor = false;
+            this.btnBuscarFix.Click += new System.EventHandler(this.btnBuscarFix_Click);
             // 
             // txtFix
             // 

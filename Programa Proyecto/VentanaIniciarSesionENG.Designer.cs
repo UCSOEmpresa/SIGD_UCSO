@@ -90,6 +90,7 @@
             this.cBMostrar.TabIndex = 16;
             this.cBMostrar.Text = "View Password";
             this.cBMostrar.UseVisualStyleBackColor = false;
+            this.cBMostrar.CheckedChanged += new System.EventHandler(this.cBMostrar_CheckedChanged);
             // 
             // txtContra
             // 
@@ -99,6 +100,7 @@
             this.txtContra.PasswordChar = '*';
             this.txtContra.Size = new System.Drawing.Size(265, 22);
             this.txtContra.TabIndex = 15;
+            this.txtContra.TextChanged += new System.EventHandler(this.txtContra_TextChanged);
             // 
             // txtUsuario
             // 
@@ -108,6 +110,7 @@
             this.txtUsuario.Name = "txtUsuario";
             this.txtUsuario.Size = new System.Drawing.Size(265, 22);
             this.txtUsuario.TabIndex = 14;
+            this.txtUsuario.TextChanged += new System.EventHandler(this.txtUsuario_TextChanged);
             // 
             // lblIniciarSesion
             // 
@@ -123,7 +126,7 @@
             // 
             // btnInvitado
             // 
-            this.btnInvitado.Location = new System.Drawing.Point(1041, 564);
+            this.btnInvitado.Location = new System.Drawing.Point(1030, 552);
             this.btnInvitado.Name = "btnInvitado";
             this.btnInvitado.Size = new System.Drawing.Size(101, 56);
             this.btnInvitado.TabIndex = 12;
@@ -158,7 +161,7 @@
             this.fLIdioma.BackColor = System.Drawing.Color.Transparent;
             this.fLIdioma.Controls.Add(this.btnEspaña);
             this.fLIdioma.Controls.Add(this.btnUSA);
-            this.fLIdioma.Location = new System.Drawing.Point(1103, 16);
+            this.fLIdioma.Location = new System.Drawing.Point(1098, 40);
             this.fLIdioma.Name = "fLIdioma";
             this.fLIdioma.Size = new System.Drawing.Size(44, 66);
             this.fLIdioma.TabIndex = 254;
@@ -195,7 +198,7 @@
             this.btnIdioma.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnIdioma.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnIdioma.ForeColor = System.Drawing.SystemColors.MenuText;
-            this.btnIdioma.Location = new System.Drawing.Point(1006, 12);
+            this.btnIdioma.Location = new System.Drawing.Point(999, 40);
             this.btnIdioma.Name = "btnIdioma";
             this.btnIdioma.Size = new System.Drawing.Size(91, 29);
             this.btnIdioma.TabIndex = 253;
@@ -226,6 +229,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "VentanaIniciarSesionENG";
             this.Text = "VentanaIniciarSesionENG";
+            this.Load += new System.EventHandler(this.VentanaIniciarSesionENG_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pBIsologo)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pBLogo)).EndInit();
             this.fLIdioma.ResumeLayout(false);

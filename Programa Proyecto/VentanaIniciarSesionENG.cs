@@ -47,5 +47,40 @@ namespace Programa_Proyecto
             VentanaCambiarContraseñaENG frm = new VentanaCambiarContraseñaENG();
             frm.Show();
         }
+
+        private void VentanaIniciarSesionENG_Load(object sender, EventArgs e)
+        {
+            btnEntrar.Enabled = false;
+        }
+
+        private void validarcampo()
+        {
+            var vr = !string.IsNullOrEmpty(txtUsuario.Text) && !string.IsNullOrEmpty(txtContra.Text);
+            btnEntrar.Enabled = vr;
+        }
+
+        private void txtUsuario_TextChanged(object sender, EventArgs e)
+        {
+            validarcampo();
+        }
+
+        private void txtContra_TextChanged(object sender, EventArgs e)
+        {
+            validarcampo();
+        }
+
+        private void cBMostrar_CheckedChanged(object sender, EventArgs e)
+        {
+
+            if (cBMostrar.Checked == true)
+            {
+                txtContra.PasswordChar = '\0';
+            }
+            else
+            {
+                txtContra.PasswordChar = '*';
+            }
+        }
     }
 }
+

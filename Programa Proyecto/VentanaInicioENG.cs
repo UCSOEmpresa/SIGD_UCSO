@@ -19,14 +19,7 @@ namespace Programa_Proyecto
 
         private void btnIdioma_Click(object sender, EventArgs e)
         {
-             if (fLIdioma.Visible == true)
-            {
-                fLIdioma.Visible = false;
-            }
-            else
-            {
-                fLIdioma.Visible = true;
-            }if (fLIdioma.Visible == true)
+            if (fLIdioma.Visible == true)
             {
                 fLIdioma.Visible = false;
             }
@@ -112,7 +105,7 @@ namespace Programa_Proyecto
             }
             else
             {
-                MessageBox.Show("Esta vacío");
+                MessageBox.Show("It is empty");
             }
         }
 
@@ -150,6 +143,11 @@ namespace Programa_Proyecto
         {
             VentanaTorneosHandballENG frm = new VentanaTorneosHandballENG();
             frm.Show();
+        }
+
+        private void Clear(object sender, MouseEventArgs e)
+        {
+            txtBusqueda.Clear();
         }
     }
 }

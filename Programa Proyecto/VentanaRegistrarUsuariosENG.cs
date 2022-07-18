@@ -47,5 +47,65 @@ namespace Programa_Proyecto
             VentanaSoporteENG frm = new VentanaSoporteENG();
             frm.Show();
         }
+
+        private void pBIsologo_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            VentanaInicio frm = new VentanaInicio();
+            frm.Show();
+        }
+
+        private void btnRegistrar_Click(object sender, EventArgs e)
+        {
+            if (cBTipoUsuario.Text != "")
+            {
+
+            }
+            else
+            {
+                MessageBox.Show("It is empty");
+            }
+
+            if (txtCorreo.Text != "")
+            {
+
+            }
+            else
+            {
+                MessageBox.Show("It is empty");
+            }
+
+            if (txtCI.Text != "")
+            {
+
+            }
+            else
+            {
+                MessageBox.Show("It is empty");
+            }
+
+            if (txtContra.Text != "")
+            {
+
+            }
+            else
+            {
+                MessageBox.Show("It is empty");
+            }
+
+            if (txtConfContra.Text != "")
+            {
+
+            }
+            else
+            {
+                MessageBox.Show("It is empty");
+            }
+        }
+
+        private void btnCancelar_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

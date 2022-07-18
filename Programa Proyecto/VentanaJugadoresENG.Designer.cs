@@ -263,6 +263,7 @@
             this.txtBusqueda.Size = new System.Drawing.Size(248, 20);
             this.txtBusqueda.TabIndex = 228;
             this.txtBusqueda.Text = "Search matches, players, tournaments and more...";
+            this.txtBusqueda.MouseClick += new System.Windows.Forms.MouseEventHandler(this.Clear);
             // 
             // btnTorneos
             // 
@@ -299,6 +300,7 @@
             this.btnJugadores.Text = "Players";
             this.btnJugadores.UseVisualStyleBackColor = false;
             this.btnJugadores.Click += new System.EventHandler(this.btnJugadores_Click);
+            this.btnJugadores.MouseClick += new System.Windows.Forms.MouseEventHandler(this.Error);
             // 
             // btnContacto
             // 
@@ -364,6 +366,7 @@
             this.pBIsologo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pBIsologo.TabIndex = 222;
             this.pBIsologo.TabStop = false;
+            this.pBIsologo.Click += new System.EventHandler(this.pBIsologo_Click);
             // 
             // btnSN
             // 
@@ -459,6 +462,7 @@
             this.btnBuscarJu.TabIndex = 243;
             this.btnBuscarJu.Text = "Search Player";
             this.btnBuscarJu.UseVisualStyleBackColor = false;
+            this.btnBuscarJu.Click += new System.EventHandler(this.btnBuscarJu_Click);
             // 
             // txtBuscarJu
             // 
@@ -468,6 +472,7 @@
             this.txtBuscarJu.Size = new System.Drawing.Size(465, 22);
             this.txtBuscarJu.TabIndex = 242;
             this.txtBuscarJu.Text = "Enter the player\'s name";
+            this.txtBuscarJu.MouseClick += new System.Windows.Forms.MouseEventHandler(this.Borrar);
             // 
             // lblBuscar
             // 

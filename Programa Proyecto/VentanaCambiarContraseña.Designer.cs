@@ -209,7 +209,7 @@
             this.fLIdioma.BackColor = System.Drawing.Color.Transparent;
             this.fLIdioma.Controls.Add(this.btnEspaña);
             this.fLIdioma.Controls.Add(this.btnUSA);
-            this.fLIdioma.Location = new System.Drawing.Point(1048, 38);
+            this.fLIdioma.Location = new System.Drawing.Point(1088, 88);
             this.fLIdioma.Name = "fLIdioma";
             this.fLIdioma.Size = new System.Drawing.Size(44, 66);
             this.fLIdioma.TabIndex = 58;
@@ -246,7 +246,7 @@
             this.btnIdioma.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnIdioma.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnIdioma.ForeColor = System.Drawing.SystemColors.MenuText;
-            this.btnIdioma.Location = new System.Drawing.Point(975, 31);
+            this.btnIdioma.Location = new System.Drawing.Point(1076, 53);
             this.btnIdioma.Name = "btnIdioma";
             this.btnIdioma.Size = new System.Drawing.Size(67, 29);
             this.btnIdioma.TabIndex = 57;

@@ -93,8 +93,7 @@ namespace Programa_Proyecto
 
         private void btnSoporte_Click(object sender, EventArgs e)
         {
-            VentanaSoporteENG frm = new VentanaSoporteENG();
-            frm.Show();
+            
         }
 
         private void pBAtras_Click(object sender, EventArgs e)
@@ -110,7 +109,7 @@ namespace Programa_Proyecto
             }
             else
             {
-                MessageBox.Show("Esta vacío");
+                MessageBox.Show("It is empty");
             }
 
             if (txtCorreo.Text != "")
@@ -119,7 +118,7 @@ namespace Programa_Proyecto
             }
             else
             {
-                MessageBox.Show("Esta vacío");
+                MessageBox.Show("It is empty");
             }
             if (txtTelef.Text != "")
             {
@@ -127,7 +126,7 @@ namespace Programa_Proyecto
             }
             else
             {
-                MessageBox.Show("Esta vacío");
+                MessageBox.Show("It is empty");
             }
             if (txtAsunto.Text != "")
             {
@@ -135,7 +134,7 @@ namespace Programa_Proyecto
             }
             else
             {
-                MessageBox.Show("Esta vacío");
+                MessageBox.Show("It is empty");
             }
             if (richTextBox1.Text != "")
             {
@@ -143,7 +142,7 @@ namespace Programa_Proyecto
             }
             else
             {
-                MessageBox.Show("Esta vacío");
+                MessageBox.Show("It is empty");
             }
         }
 
@@ -155,7 +154,7 @@ namespace Programa_Proyecto
             }
             else
             {
-                MessageBox.Show("Esta vacío");
+                MessageBox.Show("It is empty");
             }
         }
 
@@ -193,6 +192,23 @@ namespace Programa_Proyecto
         {
             VentanaTorneosHandballENG frm = new VentanaTorneosHandballENG();
             frm.Show();
+        }
+
+        private void pBIsologo_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            VentanaInicio frm = new VentanaInicio();
+            frm.Show();
+        }
+
+        private void Clear(object sender, MouseEventArgs e)
+        {
+            txtBusqueda.Clear();
+        }
+
+        private void Error(object sender, MouseEventArgs e)
+        {
+            MessageBox.Show("You are already in the Support window");
         }
     }
 }

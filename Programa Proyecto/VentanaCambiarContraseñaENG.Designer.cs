@@ -84,18 +84,18 @@
             this.label3.AutoSize = true;
             this.label3.BackColor = System.Drawing.Color.Transparent;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(461, 258);
+            this.label3.Location = new System.Drawing.Point(520, 266);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(254, 18);
+            this.label3.Size = new System.Drawing.Size(131, 18);
             this.label3.TabIndex = 40;
-            this.label3.Text = "Introduzca su correo electrónico";
+            this.label3.Text = "Enter your email";
             // 
             // lblCambiarContra
             // 
             this.lblCambiarContra.AutoSize = true;
             this.lblCambiarContra.BackColor = System.Drawing.Color.Transparent;
             this.lblCambiarContra.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblCambiarContra.Location = new System.Drawing.Point(478, 181);
+            this.lblCambiarContra.Location = new System.Drawing.Point(478, 197);
             this.lblCambiarContra.Name = "lblCambiarContra";
             this.lblCambiarContra.Size = new System.Drawing.Size(201, 25);
             this.lblCambiarContra.TabIndex = 39;
@@ -130,6 +130,7 @@
             this.pBIsologo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pBIsologo.TabIndex = 36;
             this.pBIsologo.TabStop = false;
+            this.pBIsologo.Click += new System.EventHandler(this.pBIsologo_Click);
             // 
             // btnSN
             // 
@@ -208,7 +209,7 @@
             this.fLIdioma.BackColor = System.Drawing.Color.Transparent;
             this.fLIdioma.Controls.Add(this.btnEspaña);
             this.fLIdioma.Controls.Add(this.btnUSA);
-            this.fLIdioma.Location = new System.Drawing.Point(1049, 34);
+            this.fLIdioma.Location = new System.Drawing.Point(1080, 85);
             this.fLIdioma.Name = "fLIdioma";
             this.fLIdioma.Size = new System.Drawing.Size(44, 66);
             this.fLIdioma.TabIndex = 44;
@@ -245,7 +246,7 @@
             this.btnIdioma.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnIdioma.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnIdioma.ForeColor = System.Drawing.SystemColors.MenuText;
-            this.btnIdioma.Location = new System.Drawing.Point(952, 30);
+            this.btnIdioma.Location = new System.Drawing.Point(1053, 50);
             this.btnIdioma.Name = "btnIdioma";
             this.btnIdioma.Size = new System.Drawing.Size(91, 29);
             this.btnIdioma.TabIndex = 43;

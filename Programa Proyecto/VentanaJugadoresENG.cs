@@ -62,8 +62,7 @@ namespace Programa_Proyecto
 
         private void btnJugadores_Click(object sender, EventArgs e)
         {
-            VentanaJugadoresENG frm = new VentanaJugadoresENG();
-            frm.Show();
+            
         }
 
         private void btnEquipos_Click(object sender, EventArgs e)
@@ -110,7 +109,7 @@ namespace Programa_Proyecto
             }
             else
             {
-                MessageBox.Show("Esta vacío");
+                MessageBox.Show("It is empty");
             }
         }
 
@@ -148,6 +147,40 @@ namespace Programa_Proyecto
         {
             VentanaTorneosHandballENG frm = new VentanaTorneosHandballENG();
             frm.Show();
+        }
+
+        private void pBIsologo_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            VentanaInicio frm = new VentanaInicio();
+            frm.Show();
+        }
+
+        private void Clear(object sender, MouseEventArgs e)
+        {
+            txtBusqueda.Clear();
+        }
+
+        private void btnBuscarJu_Click(object sender, EventArgs e)
+        {
+            if (txtBuscarJu.Text != "")
+            {
+
+            }
+            else
+            {
+                MessageBox.Show("It is empty");
+            }
+        }
+
+        private void Error(object sender, MouseEventArgs e)
+        {
+            MessageBox.Show("You are now in the Players window");
+        }
+
+        private void Borrar(object sender, MouseEventArgs e)
+        {
+            txtBuscarJu.Clear();
         }
     }
 }

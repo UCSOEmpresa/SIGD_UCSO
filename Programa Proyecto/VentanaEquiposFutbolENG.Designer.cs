@@ -266,6 +266,7 @@
             this.txtBusqueda.Size = new System.Drawing.Size(248, 20);
             this.txtBusqueda.TabIndex = 63;
             this.txtBusqueda.Text = "Search matches, players, tournaments and more...";
+            this.txtBusqueda.MouseClick += new System.Windows.Forms.MouseEventHandler(this.Clear);
             // 
             // btnTorneos
             // 
@@ -367,6 +368,7 @@
             this.pBIsologo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pBIsologo.TabIndex = 57;
             this.pBIsologo.TabStop = false;
+            this.pBIsologo.Click += new System.EventHandler(this.pBIsologo_Click);
             // 
             // btnSN
             // 
@@ -511,7 +513,7 @@
             // 
             this.pBLogo.BackColor = System.Drawing.Color.Transparent;
             this.pBLogo.Image = global::Programa_Proyecto.Properties.Resources.LOGO_UCSO;
-            this.pBLogo.Location = new System.Drawing.Point(511, 167);
+            this.pBLogo.Location = new System.Drawing.Point(522, 172);
             this.pBLogo.Name = "pBLogo";
             this.pBLogo.Size = new System.Drawing.Size(115, 93);
             this.pBLogo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;

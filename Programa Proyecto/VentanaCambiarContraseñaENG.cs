@@ -82,5 +82,12 @@ namespace Programa_Proyecto
                 txtCorreo.Clear();
             }
         }
+
+        private void pBIsologo_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            VentanaInicio frm = new VentanaInicio();
+            frm.Show();
+        }
     }
 }

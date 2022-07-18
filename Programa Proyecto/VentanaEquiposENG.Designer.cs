@@ -269,6 +269,7 @@
             this.txtBusqueda.Size = new System.Drawing.Size(248, 20);
             this.txtBusqueda.TabIndex = 49;
             this.txtBusqueda.Text = "Search matches, players, tournaments and more...";
+            this.txtBusqueda.MouseClick += new System.Windows.Forms.MouseEventHandler(this.Clear);
             // 
             // btnTorneos
             // 
@@ -341,6 +342,7 @@
             this.btnEquipos.Text = "Teams";
             this.btnEquipos.UseVisualStyleBackColor = false;
             this.btnEquipos.Click += new System.EventHandler(this.btnEquipos_Click);
+            this.btnEquipos.MouseClick += new System.Windows.Forms.MouseEventHandler(this.Error);
             // 
             // btnFixture
             // 
@@ -370,6 +372,7 @@
             this.pBIsologo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pBIsologo.TabIndex = 43;
             this.pBIsologo.TabStop = false;
+            this.pBIsologo.Click += new System.EventHandler(this.pBIsologo_Click);
             // 
             // btnSN
             // 
